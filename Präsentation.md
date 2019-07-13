@@ -27,13 +27,13 @@
 # PC einrichten
 
 * GitLab Account erstellen  
-[git.makerspace-gt.de](git.makerspace-gt.de)
+[git.makerspace-gt.de](https://git.makerspace-gt.de)
 * git installieren  
-[git-scm.com/downloads](git-scm.com/downloads)
+[git-scm.com/downloads](https://git-scm.com/downloads)
 * SSH Keys zu GitLab hinzufügen  
-[git.makerspace-gt.de/help/ssh/README](git.makerspace-gt.de/help/ssh/README)
+[git.makerspace-gt.de/help/ssh/README](https://git.makerspace-gt.de/help/ssh/README)
 * VSCodium installiern  
-[vscodium.com](vscodium.com)
+[vscodium.com](https://vscodium.com)
 
 |                        **Haftungsausschluss**                        |
 |:--------------------------------------------------------------------:|
