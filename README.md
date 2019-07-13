@@ -5,7 +5,7 @@
 * Funktionen von GitLab
 
 **Zielgruppe**  
-* jeder, der zusammen alleine oder mit anderen Projekte umsetzen möchte
+* Alle, die alleine oder zusammen mit anderen Projekte umsetzen möchte
 
 **Dauer**  
 * 3 Stunden
